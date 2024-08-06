@@ -1,22 +1,8 @@
 # British Airways Customer Feedback Dashboard
 
-**About**
-
-I have completed the "Disease Prediction Using Machine Learning" project, authorized and offered by HiCounselor. This project involves replicating my codes with modifications, providing a detailed description, and sharing observations.
-
 **Project Description**
 
-Heart disease remains a prominent cause of morbidity and mortality worldwide. This project centers around leveraging the Cleveland Heart Disease dataset from the UCI repository, containing vital information for diagnosing individuals with heart disease. Employing machine learning, the goal is to predict an individual's susceptibility to heart disease, utilizing features like chest pain type, age, sex, and more.
-
-**New Learnings**
-
-Embarking on a journey of learning new functions in machine-learning Python libraries! 📚
-
-📊**MinMaxScaler:** A gem from scikit-learn, designed to scale features to a specified range, typically between 0 and 1. Crucial for many ML algorithms, ensuring all features contribute equally to model training, especially when they vary in scales or units.
-
-🌟**LinearDiscriminantAnalysis (LDA):** It's a dimensionality reduction and classification technique in machine learning and statistics.  LDA seeks the optimal linear combination of features to effectively characterize or separate classes by maximizing the between-class to within-class variance ratio.
-
-🔄**Cross-Validation Score (cross_val_score) Function:** A convenient method within scikit-learn for performing cross-validated scoring of an estimator (model) on a dataset. This function streamlines the process of data splitting, model fitting, and score computation, providing a more reliable estimate of how well a model will generalize to new, unseen data.
+This interactive Tableau dashboard visualizes customer reviews of British Airways, showcasing average ratings across various factors including cabin staff service, food service, entertainment, and seat comfort. Users can filter reviews by traveler type and seat type, offering a comprehensive view of customer experiences worldwide.
 
 **Reference and Credits**
  
